@@ -5,6 +5,7 @@
   Descrição
 </h1>
 Criando um projeto de um site de filmes, que mostra um catalogo de filmes com a opção de avaliação deles.
+Confira o resultado:  https://doriandsmovie.netlify.app/
 
 <h1 id="arquitetura">
 <img src="https://img.icons8.com/office/30/000000/blueprint.png"/>
@@ -78,7 +79,7 @@ Criando um projeto de um site de filmes, que mostra um catalogo de filmes com a 
 - CSS
 - Figma
 - Heroku
-- Netlify https://doriandsmovie.netlify.app/
+- Netlify
 - Axios
 - Yarn
 - Postgres
